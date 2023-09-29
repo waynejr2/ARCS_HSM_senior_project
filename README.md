@@ -12,4 +12,4 @@
 ## Doctor Dewey's Intro to HSM videos ##
   - ?? Not sure where these are, will ask in zoom today.
 
-## StateMachine.com media to consume -- waiting - should be completed by 10/03/2023
+## StateMachine.com media to consume -- waiting - should be completed by 10/03/2023 ##
