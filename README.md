@@ -10,7 +10,7 @@
   - Compiler_Core_-_Part_5_-_Code_Generation  -- waiting - should be completed 9/30/2023
 
 ## Doctor Dewey's Intro to HSM videos ##
-  - These are the Thursday/Friday zoom meetings
+  - These are the Thursday/Friday zoom meetings - up to date
 
 ## StateMachine.com media to consume -- waiting - should be completed by 10/03/2023 ##
 
