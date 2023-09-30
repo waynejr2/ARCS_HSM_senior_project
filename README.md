@@ -13,3 +13,8 @@
   - These are the Thursday/Friday zoom meetings
 
 ## StateMachine.com media to consume -- waiting - should be completed by 10/03/2023 ##
+
+<https://docs.google.com/document/d/1yl9MzZ8Ib8TEpnE8Nj78Yp_ksdMXEGqrQBrlMA7svEA/edit>
+<https://www.state-machine.com/fsm#HSM>
+<https://www.state-machine.com/qpc/srs_sm.html>
+<https://www.state-machine.com/qpc/srs_ao.html>
