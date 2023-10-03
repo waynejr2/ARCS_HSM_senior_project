@@ -7,7 +7,7 @@
   - Compiler_Core_-_Part_2_-_Tokenization  -- Completed
   - Compiler_Core_-_Part_3_-_Parsing  -- Completed
   - Compiler_Core_-_Part_4_-_Typechecking  -- Completed
-  - Compiler_Core_-_Part_5_-_Code_Generation  -- waiting - should be completed 9/30/2023
+  - Compiler_Core_-_Part_5_-_Code_Generation  -- Complete
 
 ## Doctor Dewey's Intro to HSM videos ##
   - These are the Thursday/Friday zoom meetings - up to date
