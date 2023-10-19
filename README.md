@@ -19,7 +19,7 @@
 <https://www.state-machine.com/qpc/srs_sm.html> \
 <https://www.state-machine.com/qpc/srs_ao.html>
 
-## My Goal for scrum presentation on 10/26/2023 are: ##
+## My Goal for things I need to get done before 10/26/2023 are: ##
   - getting the V1 compiler to run on my system
   - making a list of what I want to do in this project
 
