@@ -21,7 +21,7 @@
 
 ## My Goal for things I need to get done before 10/26/2023 are: ##
   - getting the V1 compiler to run on my system
-    -- Compiler has been built.  gen-coverage.sh fails due to missing packages in os env
+  - Compiler has been built.  gen-coverage.sh fails due to missing packages in os env
   - making a list of what I want to do in this project
 
 ## What I want to consider doing on this project.  List likely to be narrowed down ##
