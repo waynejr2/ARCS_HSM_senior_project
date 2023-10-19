@@ -17,7 +17,7 @@
 <https://docs.google.com/document/d/1yl9MzZ8Ib8TEpnE8Nj78Yp_ksdMXEGqrQBrlMA7svEA/edit> \
 <https://www.state-machine.com/fsm#HSM> \
 <https://www.state-machine.com/qpc/srs_sm.html> \
-<https://www.state-machine.com/qpc/srs_ao.html> \
+<https://www.state-machine.com/qpc/srs_ao.html>
 
 ## My Goal for scrum presentation on 10/26/2023 are: ##
   - getting the V1 compiler to run on my system
