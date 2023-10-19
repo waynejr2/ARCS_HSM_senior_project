@@ -1,6 +1,6 @@
 # CSUN COMP 490 Senior Design Project - ARCS HSM proteus code verification and validation
 
-## Wayne Rasmussen   2023/09/26 ##
+## Wayne Rasmussen   10/19/2023 ##
 
 ## Doctor Dewey's Compiler Design series to watch ##
   - Compiler_Core_-_Part_1_-_Compiler_Internals  - Completed
@@ -18,3 +18,13 @@
 <https://www.state-machine.com/fsm#HSM> \
 <https://www.state-machine.com/qpc/srs_sm.html> \
 <https://www.state-machine.com/qpc/srs_ao.html> \
+
+## My Goal for scrum presentation on 10/26/2023 are: ##
+  - getting the V1 compiler to run on my system
+  - making a list of what I want to do in this project
+
+## What I want to consider doing on this project.  List likely to be narrowed down ##
+  - TDD with mutation testing on V1 Compiler
+  - automatted HSM test code generator V1 Compiler and V2 if possible
+  - fuzzing testing parts of the V1 compiler
+  - verification/validation (likely way too big to do and perhaps not possible)
