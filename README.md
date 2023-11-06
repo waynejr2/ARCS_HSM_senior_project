@@ -12,7 +12,7 @@
 ## Doctor Dewey's Intro to HSM videos ##
   - These are the Thursday/Friday zoom meetings - up to date
 
-## StateMachine.com media to consume -- waiting - completed ##
+## StateMachine.com media to consume -- completed ##
 
 <https://docs.google.com/document/d/1yl9MzZ8Ib8TEpnE8Nj78Yp_ksdMXEGqrQBrlMA7svEA/edit> \
 <https://www.state-machine.com/fsm#HSM> \
@@ -29,3 +29,29 @@
   - automatted HSM test code generator V1 Compiler and V2 if possible
   - fuzzing testing parts of the V1 compiler
   - verification/validation (likely way too big to do and perhaps not possible)
+
+## Reading books and pdf -- work in progress ##
+# How google Tests Software #
+  - Good book - Talks about CI as being important. Perhaps on a VM (I will look into this).
+  - Chapters 1, 2, 5 are most pertinent.
+# FUZZING - Brute Force Vulnerability Discovery #
+  - This is considered to be an advanced book on FUZZING
+  - Very good introduction to the material
+  - Part 1 Backgroun - chapters 1,2,3 are introduction to the subject.  MUST READ!!!
+  - Part 2 Targets and Automation - Need to narrow down the chapters that we might want to consider
+  - Part 3 Advanced Fuzzing Technology - Might not get to this at all but is solid looking.
+# Certified Programming with Dependent Types #
+  - Very advanced introduction to Coq Proof Assitant.  Might help, but might be more of a MS degree level.
+# Specifying Systems #
+  - ANother advanced book, some chapters might come in handy for multithreading or time sensitive code.
+# Unit Test Frameworks #
+  - Chapters 1, 2, 4, 6 might be useful.  The introduction and junit parts in those chapters.
+# Software Abstractions #
+  - need to revisit this at some time to see if there is something we can use.
+  - Pages 250, 251 has a little bit of insight into State Machines that could be good to know.
+# Proteus Language pdf #
+  - Critial
+  - Might need to write new documentation based on the class project
+# Test Driven Development #
+  - Have not look at yet.
+
