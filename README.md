@@ -79,7 +79,7 @@ Tests:
 Critical Toggle:  
 Given N Actors in state [0|1]  
 Rules based on their neighbors, determine if they flip state.  
-	what happens?  
+	-what happens?  
 Note:  kind of like Conway's Game of Life.  
 
 ***************
@@ -87,9 +87,9 @@ Note:  kind of like Conway's Game of Life.
 Monkey Chatter:  
 N Actors, chatting over time:  
 can we create a test the over time could lead to:  
-    Chatting stopped  
-	Chatting remains the same  
-	Chatting gone wild AKA Monkey Chatter  
+    -Chatting stopped  
+	--Chatting remains the same  
+	--Chatting gone wild AKA Monkey Chatter  
 
 ***************
 
@@ -106,7 +106,7 @@ If we keep adding to the thread queue, when will we run out.
 
 EVENT QUEUE size for threading.  
 
-Can it really grow?  
+-Can it really grow?  
 ***************
 ***************
 
