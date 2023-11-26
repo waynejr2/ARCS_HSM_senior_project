@@ -63,15 +63,15 @@ N actors who pass the dollar around.  Can we end up with more than 1 dollar in t
 
 sequence order test
 
-Version 1)  N actors and 1 CENTRAL HUB actor.
-N actors signal HUB,
-HUB knows the first N signal Actors.
-Tests:
-	In the first N signals to HUB the sequence
-		Does the sequence have any repeated actors or is each listed once?
-	Is the sequence preserved over time?
-	Actor Counts, each Actor has a count of the number of times it has signaled,
-		over a long time, how close are these numbers.
+Version 1)  N actors and 1 CENTRAL HUB actor.  
+N actors signal HUB,  
+HUB knows the first N signal Actors.  
+Tests:  
+	In the first N signals to HUB the sequence  
+		Does the sequence have any repeated actors or is each listed once?  
+	Is the sequence preserved over time?  
+	Actor Counts, each Actor has a count of the number of times it has signaled,  
+		over a long time, how close are these numbers.  
 
 
 ***************
