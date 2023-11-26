@@ -54,4 +54,59 @@
   - Might need to write new documentation based on the class project
 # Test Driven Development #
   - Have not look at yet.
+# Testing Threading Thought Experiements.
+passing 1 dollar around (AKA Money Maker):
+
+N actors who pass the dollar around.  Can we end up with more than 1 dollar in the system
+
+***************
+
+sequence order test
+
+Version 1)  N actors and 1 CENTRAL HUB actor.
+N actors signal HUB,
+HUB knows the first N signal Actors.
+Tests:
+	In the first N signals to HUB the sequence
+		Does the sequence have any repeated actors or is each listed once?
+	Is the sequence preserved over time?
+	Actor Counts, each Actor has a count of the number of times it has signaled,
+		over a long time, how close are these numbers.
+
+
+***************
+
+Critical Toggle:
+Given N Actors in state [0|1]
+Rules based on their neighbors, determine if they flip state.
+	what happens?
+Note:  kind of like Conway's Game of Life.
+
+***************
+
+Monkey Chatter:
+N Actors, chatting over time:
+can we create a test the over time could lead to:
+	Chatting stopped
+	Chatting remains the same
+	Chatting gone wild AKA Monkey Chatter
+
+***************
+
+Stock Market:  AKA Trading Places stock market
+Can we flood the system with events?
+Is that a kind of malloc going on?
+N actors, When A Actor signals, it Signals all other actors.
+When an actor gets signalled, it signals all other actors.
+How large does the queue grow?
+Do we run out of space/crash the system.
+If we keep adding to the thread queue, when will we run out.
+
+***************
+
+EVENT QUEUE size for threading.
+
+Can it really grow?
+***************
+***************
 
