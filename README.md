@@ -87,7 +87,7 @@ Note:  kind of like Conway's Game of Life.
 Monkey Chatter:  
 N Actors, chatting over time:  
 can we create a test the over time could lead to:  
-	Chatting stopped  
+    Chatting stopped  
 	Chatting remains the same  
 	Chatting gone wild AKA Monkey Chatter  
 
