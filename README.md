@@ -85,7 +85,7 @@ Note:  kind of like Conway's Game of Life.
 ***************
 
 Monkey Chatter:  
-N Actors, chatting over time:  
+N Actors, chatting over time, to all other Actors in their event:  
 can we create a test the over time could lead to:  
     -Chatting stopped  
 	--Chatting remains the same  
