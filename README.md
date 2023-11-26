@@ -76,37 +76,37 @@ Tests:
 
 ***************
 
-Critical Toggle:
-Given N Actors in state [0|1]
-Rules based on their neighbors, determine if they flip state.
-	what happens?
-Note:  kind of like Conway's Game of Life.
+Critical Toggle:  
+Given N Actors in state [0|1]  
+Rules based on their neighbors, determine if they flip state.  
+	what happens?  
+Note:  kind of like Conway's Game of Life.  
 
 ***************
 
-Monkey Chatter:
-N Actors, chatting over time:
-can we create a test the over time could lead to:
-	Chatting stopped
-	Chatting remains the same
-	Chatting gone wild AKA Monkey Chatter
+Monkey Chatter:  
+N Actors, chatting over time:  
+can we create a test the over time could lead to:  
+	Chatting stopped  
+	Chatting remains the same  
+	Chatting gone wild AKA Monkey Chatter  
 
 ***************
 
-Stock Market:  AKA Trading Places stock market
-Can we flood the system with events?
-Is that a kind of malloc going on?
-N actors, When A Actor signals, it Signals all other actors.
-When an actor gets signalled, it signals all other actors.
-How large does the queue grow?
-Do we run out of space/crash the system.
-If we keep adding to the thread queue, when will we run out.
+Stock Market:  AKA Trading Places stock market  
+Can we flood the system with events?  
+Is that a kind of malloc going on?  
+N actors, When A Actor signals, it Signals all other actors.  
+When an actor gets signalled, it signals all other actors.  
+How large does the queue grow?  
+Do we run out of space/crash the system.  
+If we keep adding to the thread queue, when will we run out.  
 
 ***************
 
-EVENT QUEUE size for threading.
+EVENT QUEUE size for threading.  
 
-Can it really grow?
+Can it really grow?  
 ***************
 ***************
 
